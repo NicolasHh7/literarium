@@ -50,9 +50,4 @@ A proposta é oferecer um ambiente completo para que autores iniciantes ou exper
 
 
 
-## Figma
-https://www.figma.com/design/8UBDv3R9WHnM7SQg52s1vH/Untitled?node-id=0-1&p=f&t=OYKDkpDsT9B3hiRW-0
-
-
-
 
